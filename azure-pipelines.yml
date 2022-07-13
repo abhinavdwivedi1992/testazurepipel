@@ -1,4 +1,4 @@
-  task: DotNetCoreCLI2
+- task: DotNetCoreCLI2
   inputs:
     command: 'build'
 # Start with a minimal pipeline that you can customize to build and deploy your code.
